@@ -5,3 +5,4 @@ Evidencias de aprendisajes
 # Participantes:
 - Natalia Zavala
 - Cristian Herrera 
+- Agustin Palomeque
